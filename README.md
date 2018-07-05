@@ -13,3 +13,13 @@ mv ~/Downloads/chrome_driver_{osname}.zip
 
 # To Run
 `python main.py`
+
+# Process
+* Login ✔️
+* Select Trail
+* Check if trail has already been walked
+* If already walked then select next trail
+* If not already walked then go into trail
+* Brute force guess the answers
+* Write answers to json file ✔️
+* Select next trail and repeat
